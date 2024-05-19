@@ -87,3 +87,27 @@ Contributions to this project are welcome! If you encounter any issues or have s
 ---
 
 By following the steps outlined above, you can effectively deploy and manage an AWS Lambda function to optimize S3 storage costs, ensuring cost-efficiency and streamlined storage management.
+
+
+
+## Do checkout my Medium profile where i write on the Cloud Cost Optimization and DevOps Practices
+
+🌱 **Explore My Latest Medium Articles**: [Your Medium Blog](https://medium.com/@sangramsankpal7812)
+
+---
+
+## Connect with Me on LinkedIn
+
+Let's connect on LinkedIn for professional networking and to stay updated on industry insights. I'm eager to engage with like-minded professionals and collaborate on building smarter, more efficient cloud solutions together.
+
+🔗 **Visit My LinkedIn Profile**: [Your LinkedIn Profile](www.linkedin.com/in/sangram-sankpal-498720243)
+
+---
+
+## Feedback and Collaboration
+
+Your feedback and collaboration are invaluable to me as I continue to grow and learn in the field of cloud technology and DevOps. I welcome any suggestions, contributions, or opportunities for collaboration.
+
+
+
+---
