@@ -92,7 +92,7 @@ By following the steps outlined above, you can effectively deploy and manage an 
 
 ## Do checkout my Medium profile where i write on the Cloud Cost Optimization and DevOps Practices
 
-🌱 **Explore My Latest Medium Articles**: [Your Medium Blog](https://medium.com/@sangramsankpal7812)
+🌱 **Explore My Latest Medium Articles**: [Medium Blog](https://medium.com/@sangramsankpal7812)
 
 ---
 
@@ -100,7 +100,7 @@ By following the steps outlined above, you can effectively deploy and manage an 
 
 Let's connect on LinkedIn for professional networking and to stay updated on industry insights. I'm eager to engage with like-minded professionals and collaborate on building smarter, more efficient cloud solutions together.
 
-🔗 **Visit My LinkedIn Profile**: [Your LinkedIn Profile](www.linkedin.com/in/sangram-sankpal-498720243)
+🔗 **Visit My LinkedIn Profile**: [ LinkedIn Profile](www.linkedin.com/in/sangram-sankpal-498720243)
 
 ---
 
