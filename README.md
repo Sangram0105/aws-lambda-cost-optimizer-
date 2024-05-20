@@ -6,6 +6,17 @@ I am [Sangram]😊, a passionate DevOps engineer with a focus on cloud cost opti
 
 This project aims to automate the optimization of Amazon S3 bucket costs using AWS Lambda and CloudWatch Events. By leveraging serverless architecture, the solution identifies and migrates infrequently accessed objects to lower-cost storage classes, such as GLACIER, without sacrificing accessibility or performance. This README provides an overview of the project structure, setup instructions, and usage guidelines.
 
+
+## Project Diagram
+
+![Architecture Diagram](https://github.com/Sangram0105/aws-lambda-cost-optimizer-/assets/115467468/2f2b13bf-b1b5-4855-ae3b-0fba5323618e)
+
+
+The diagram consists of several key components working together:
+- **Amazon S3 Bucket**: Stores objects to be monitored and optimized.
+- **AWS Lambda Function**: Analyzes object usage and modifies storage classes accordingly.
+- **Amazon CloudWatch Events**: Triggers the Lambda function on a scheduled basis.
+
 ## Features
 
 - **Cost Reduction:** Automatically identifies and migrates infrequently accessed objects to lower-cost storage classes, resulting in significant reductions in S3 storage costs.
